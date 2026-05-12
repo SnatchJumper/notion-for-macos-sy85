@@ -1,4 +1,4 @@
-#  
+#  Get the ultimate Notion for macOS addon with automatic Notion for macOS Addon | custom themes + focus mode. Featuring custom themes and focus mode, it's the best choice for macOS
 
 
 
